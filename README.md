@@ -49,6 +49,10 @@ For more information, setup instructions for other dev clients, and to post comm
 | Microsoft Foundry Community Discord | [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://aka.ms/MicrosoftFoundry-Ignite25)| Connect with the Microsoft Foundry Community! |
 | Learn at Ignite | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite?ocid=ignite25_nextsteps_github_cnl) | Continue learning on Microsoft Learn |
 
+## 🚀 Try Azure for Free!
+
+Ready to build, experiment, or scale your next project? Kick things off with an Azure Free Trial and get access to popular services, generous monthly credits, and the tools you need to ship fast. 👉 Start your free journey here: https://aka.ms/devrelft
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
